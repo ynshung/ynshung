@@ -1,4 +1,4 @@
-### Heya, welcome! 👋
+## Heya, welcome! 👋
 
 > Current status: Coding (0.20± accuracy)
 
