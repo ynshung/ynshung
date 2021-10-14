@@ -13,9 +13,6 @@ While you're here...
 
 More info about them [here](https://ynshung.com/projects)!
 
-### Connect with me!
-Hold up, the LinkedIn profile is still in construction...
-
 ### Look at these beautiful stats
 
 <div align="center">
