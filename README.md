@@ -1,6 +1,6 @@
 ## Heya, welcome! 👋
 
-> Current status: Coding (0.20± accuracy)
+> Current status: Coding (0.10± accuracy)
 
 I'm a self-taught developer👨‍💻, a learning student, a STEM enthuasist and an INTP who hope to contribute to the world (silently)🌏
 
