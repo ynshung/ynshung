@@ -8,6 +8,7 @@ While you're here...
 
 ### Check out my newest projects
 
+* [Varsity Hackathon 2022](http://vhackusm.com/) - If you're currently studying in Malaysia, grab the chance to participate in this unique hackathon presented by USM Computer Science Society!
 * [Searchee](https://searchee.ynshung.com/) - A platform for buyers to search for product's reviews on Shopee.
 * [SAPS Touch](https://play.google.com/store/apps/details?id=com.ynshung.sapstouch) - An Android application for Malaysian students to check their exam results with a clean interface.
 
