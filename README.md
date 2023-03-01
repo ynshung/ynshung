@@ -8,8 +8,9 @@ I'm a self-taught developer👨‍💻, a BCS student, a STEM enthuasist and an 
 
 While you're here...
 
-### Check out my newest projects
+### 📂 Check out my newest projects
 
+* [Better YouTube Shorts](https://github.com/ynshung/better-yt-shorts) - A browser extension to control playback on YouTube Shorts.
 * [PIXEL 2022](https://pixel.usm.my/) - A showcase of Universiti Sains Malaysia (USM) computer science students Final Year Project (FYP).
 * [Varsity Hackathon 2022](http://vhackusm.com/) - A unique hackathon presented by USM Computer Science Society!
 * [Searchee](https://searchee.ynshung.com/) - A platform for buyers to search for product's reviews on Shopee.
@@ -17,7 +18,10 @@ While you're here...
 
 More info about them [here](https://ynshung.com/projects)!
 
-### Look at these beautiful stats
+### ☕ Fancy a cup of coffee?
+If you love what I do, you can support me on [Ko-fi](https://ko-fi.com/ynshung)!
+
+### 📊 Look at these beautiful stats
 
 <div align="center">
 <img align="center" style="margin-bottom: 1em" src="https://github-readme-stats.vercel.app/api?username=ynshung&theme=slateorange&count_private=true&show_icons=true&include_all_commits=true" />
