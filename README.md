@@ -11,8 +11,8 @@ While you're here...
 ### 📂 Check out my newest projects
 
 * [Better YouTube Shorts](https://github.com/ynshung/better-yt-shorts) - A browser extension to control playback on YouTube Shorts.
+* [Varsity Hackathon 2023](http://vhackusm.com/) - A unique hackathon presented by USM Computer Science Society!
 * [PIXEL 2022](https://pixel.usm.my/) - A showcase of Universiti Sains Malaysia (USM) computer science students Final Year Project (FYP).
-* [Varsity Hackathon 2022](http://vhackusm.com/) - A unique hackathon presented by USM Computer Science Society!
 * [Searchee](https://searchee.ynshung.com/) - A platform for buyers to search for product's reviews on Shopee.
 * [SAPS Touch](https://play.google.com/store/apps/details?id=com.ynshung.sapstouch) - An Android application for Malaysian students to check their exam results with a clean interface.
 
