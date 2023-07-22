@@ -8,13 +8,12 @@ I'm a self-taught developer👨‍💻, a BCS student, a STEM enthuasist and an 
 
 While you're here...
 
-### 📂 Check out my newest projects
+### 📂 Check out my projects
 
 * [Better YouTube Shorts](https://github.com/ynshung/better-yt-shorts) - A browser extension to control playback on YouTube Shorts.
-* [Varsity Hackathon 2023](http://vhackusm.com/) - A unique hackathon presented by USM Computer Science Society!
-* [PIXEL 2022](https://pixel.usm.my/) - A showcase of Universiti Sains Malaysia (USM) computer science students Final Year Project (FYP).
-* [Searchee](https://searchee.ynshung.com/) - A platform for buyers to search for product's reviews on Shopee.
 * [SAPS Touch](https://play.google.com/store/apps/details?id=com.ynshung.sapstouch) - An Android application for Malaysian students to check their exam results with a clean interface.
+* [Varsity Hackathon 2023](http://vhackusm.com/) - A unique hackathon presented by USM Computer Science Society!
+* [PIXEL 2023](https://pixel.usm.my/) - A showcase of Universiti Sains Malaysia (USM) computer science students Final Year Project (FYP).
 
 More info about them [here](https://ynshung.com/projects)!
 
