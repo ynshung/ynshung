@@ -10,15 +10,16 @@ While you're here...
 
 ### 📂 Check out my projects
 
-* [Better YouTube Shorts](https://github.com/ynshung/better-yt-shorts) - A browser extension to control playback on YouTube Shorts.
-* [SAPS Touch](https://play.google.com/store/apps/details?id=com.ynshung.sapstouch) - An Android application for Malaysian students to check their exam results with a clean interface.
-* [Varsity Hackathon 2023](http://vhackusm.com/) - A unique hackathon presented by USM Computer Science Society!
-* [PIXEL 2023](https://pixel.usm.my/) - A showcase of Universiti Sains Malaysia (USM) computer science students Final Year Project (FYP).
+* [Better YouTube Shorts](https://github.com/ynshung/better-yt-shorts) - A browser extension to control playback on YouTube Shorts
+* [WhatsApp Direct](https://github.com/ynshung/whatsapp-direct) - A simple web application that allows the messaging of unknown number
+* [SAPS Touch](https://play.google.com/store/apps/details?id=com.ynshung.sapstouch) - An Android application for Malaysian students to check their exam results with a clean interface
+* [Varsity Hackathon 2023](http://vhackusm.com/) - A unique hackathon presented by USM Computer Science Society
+* [PIXEL 2023](https://pixel.usm.my/) - A showcase of Universiti Sains Malaysia (USM) computer science students Final Year Project (FYP)
 
-More info about them [here](https://ynshung.com/projects)!
+More info about them [here](https://ynshung.com/#projects)!
 
 ### ☕ Fancy a cup of coffee?
-If you love what I do, you can support me on [Ko-fi](https://ko-fi.com/ynshung)!
+If you love what I do, you can support me on [Ko-fi](https://ko-fi.com/ynshung) or [GitHub Sponsors](https://github.com/sponsors/ynshung) (next to the follow button)!
 
 ### 📊 Look at these beautiful stats
 
