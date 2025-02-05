@@ -2,7 +2,7 @@
 
 > Current status: Coding (0.25± accuracy)
 
-I'm a self-taught developer👨‍💻, a BCS student, a STEM enthuasist and an introvert who hope to contribute to the world (silently)🌏
+I'm a self-taught developer👨‍💻, a senior BCS student, a STEM enthuasist and an introvert who hope to contribute to the world🌏
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/ynshung/ynshung/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/ynshung/ynshung/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
@@ -10,8 +10,8 @@ While you're here...
 
 ### 📂 Check out my projects
 
-* [Better YouTube Shorts](https://github.com/ynshung/better-yt-shorts) - A browser extension to control playback on YouTube Shorts
-* [WhatsApp Direct](https://github.com/ynshung/whatsapp-direct) - A simple web application that allows the messaging of unknown number
+* [University Projects](https://github.com/ynshung/usm-cs) - A list of repositories containing various coursework projects such as 3D Graphics, Docker and IoT
+* [Better YouTube Shorts](https://github.com/ynshung/better-yt-shorts) - A browser extension to control playback on YouTube Shorts (unmaintained)
 * [SAPS Touch](https://play.google.com/store/apps/details?id=com.ynshung.sapstouch) - An Android application for Malaysian students to check their exam results with a clean interface
 * [Varsity Hackathon 2023](http://vhackusm.com/) - A unique hackathon presented by USM Computer Science Society
 * [PIXEL 2023](https://pixel.usm.my/) - A showcase of Universiti Sains Malaysia (USM) computer science students Final Year Project (FYP)
