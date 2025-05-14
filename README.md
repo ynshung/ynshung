@@ -2,7 +2,7 @@
 
 > Current status: Coding (0.25± accuracy)
 
-I'm a self-taught developer👨‍💻, a senior BCS student, a STEM enthuasist and an introvert who hope to contribute to the world🌏
+I'm a self-taught developer👨‍💻, a senior BCS student, a STEM enthuasist and an INFP who hope to contribute to the world🌏
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/ynshung/ynshung/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/ynshung/ynshung/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
