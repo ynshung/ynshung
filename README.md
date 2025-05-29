@@ -41,13 +41,11 @@ While you're here...
 
 ### 📂 Check out my projects
 
-* [University Projects](https://github.com/ynshung/usm-cs) - A list of repositories containing various coursework projects such as 3D Graphics, Docker and IoT
+* [University Projects](https://github.com/ynshung/usm-cs) - A list of repositories containing various USM coursework projects such as 3D Graphics, Docker and IoT
 * [Voting Svelte](https://github.com/ynshung/voting-svelte) - A voting platform based on Svelte 3
 * [Better YouTube Shorts](https://github.com/ynshung/better-yt-shorts) - A browser extension to control playback on YouTube Shorts (unmaintained)
 * [SAPS Touch](https://play.google.com/store/apps/details?id=com.ynshung.sapstouch) - An Android application for Malaysian students to check their exam results with a clean interface
 * [USM Current Week](https://github.com/ynshung/usm-current-week) - A website showing the current week in Universiti Sains Malaysia
-
-Additional info about some projects [here](https://ynshung.com/#projects)!
 
 ### ☕ Fancy a cup of coffee?
 If you love what I do, you can support me on [Ko-fi](https://ko-fi.com/ynshung) or [GitHub Sponsors](https://github.com/sponsors/ynshung) (next to the follow button)!
