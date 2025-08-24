@@ -2,7 +2,7 @@
 
 > Current status: Coding (0.25± accuracy)
 
-I'm a self-taught developer👨‍💻, a senior BCS student and a STEM enthuasist who hope to contribute to the world🌏
+I'm a self-taught full-stack/mobile development developer👨‍💻 and a STEM enthuasist who love to build stuffs that brings impact to the world🌏 (or anyone!)
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/ynshung/ynshung/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/ynshung/ynshung/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
@@ -11,11 +11,14 @@ While you're here...
 ### ⌨ Here's what I know
 #### Full stack stuffs
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/)
+[![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactnative.dev/)
 [![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)](https://expo.dev/)
 [![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](http://nextjs.org/)
-[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://expressjs.com/)
 [![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)](https://astro.build/)
 [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
 [![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)](https://firebase.google.com/)
 [![Drizzle](https://img.shields.io/badge/Drizzle-%23000000?style=for-the-badge&logo=drizzle&logoColor=C5F74F)](https://orm.drizzle.team/)
 [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
@@ -26,11 +29,11 @@ While you're here...
 [![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)](https://ai.google.dev/)
 
 #### I also learnt these
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/en/)
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/)
 [![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
 [![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)](https://hadoop.apache.org/)
 [![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge)](https://www.khronos.org/webgl/)
@@ -41,10 +44,10 @@ While you're here...
 
 ### 📂 Check out my projects
 
+* [MyTrafficCam](https://mytraffic.cam) - A mobile application for Malaysian to view current and past road traffic camera in major highways
 * [University Projects](https://github.com/ynshung/usm-cs) - A list of repositories containing various USM coursework projects such as 3D Graphics, Docker and IoT
 * [Voting Svelte](https://github.com/ynshung/voting-svelte) - A voting platform based on Svelte 3
 * [Better YouTube Shorts](https://github.com/ynshung/better-yt-shorts) - A browser extension to control playback on YouTube Shorts (unmaintained)
-* [SAPS Touch](https://play.google.com/store/apps/details?id=com.ynshung.sapstouch) - An Android application for Malaysian students to check their exam results with a clean interface
 * [USM Current Week](https://github.com/ynshung/usm-current-week) - A website showing the current week in Universiti Sains Malaysia
 
 ### ☕ Fancy a cup of coffee?
@@ -59,4 +62,4 @@ If you love what I do, you can support me on [Ko-fi](https://ko-fi.com/ynshung) 
 
 ---
 
-Alright I'm out of ideas. You can look around here and also explore my [website](https://ynshung.com). Thanks for visiting and goodbye!😆
+Alright I'm out of ideas. You can look around here and also explore my [website](https://ynshung.com) (it's been a while since I've updated it). Thanks for visiting and goodbye!😆
