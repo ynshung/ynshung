@@ -1,6 +1,6 @@
 ## Heya, welcome! 👋
 
-> Current status: Coding (0.25± accuracy)
+> Current status: Coding (0.33± accuracy)
 
 I'm a self-taught full-stack/mobile development developer👨‍💻 and a STEM enthuasist who love to build stuffs that brings impact to the world🌏 (or anyone!)
 
@@ -56,8 +56,8 @@ If you love what I do, you can support me on [Ko-fi](https://ko-fi.com/ynshung) 
 ### 📊 Look at these beautiful stats
 
 <div align="center">
-<img align="center" style="margin-bottom: 1em" src="https://github-readme-stats.vercel.app/api?username=ynshung&theme=slateorange&count_private=true&show_icons=true&include_all_commits=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ynshung&theme=slateorange&layout=compact&langs_count=6" />
+<img align="center" style="margin-bottom: 1em" src="https://github-readme-stats-fast.vercel.app/api?username=ynshung&theme=slateorange&count_private=true&show_icons=true&include_all_commits=true" />
+<img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ynshung&theme=slateorange&layout=compact&langs_count=6" />
 </div>
 
 ---
