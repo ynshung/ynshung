@@ -44,8 +44,8 @@ While you're here...
 
 ### 📂 Check out my projects
 
+* [Personal Dashboard](https://github.com/ynshung/mini-personal-dashboard) - A mini dashboard with ESP32 and LCD round display for Spotify, Claude usage and more
 * [CukaiMate](https://cukaimate.com) - A mobile application that helps with tracking and management of income tax in Malaysia
-* [MyTrafficCam](https://mytraffic.cam) - A mobile application for Malaysian to view current and past road traffic camera in major highways
 * [University Projects](https://github.com/ynshung/usm-cs) - A list of repositories containing various USM coursework projects such as 3D Graphics, Docker and IoT
 * [Better YouTube Shorts](https://github.com/ynshung/better-yt-shorts) - A browser extension to control playback on YouTube Shorts (unmaintained)
 * [USM Current Week](https://github.com/ynshung/usm-current-week) - A website showing the current week in Universiti Sains Malaysia
