@@ -47,11 +47,11 @@ While you're here...
 
 ### 📂 Check out my projects
 
+* [Starfocus](https://trystarfocus.com/) - A space-themed iOS pomodoro app that turns each focus session into a real star from the night sky
 * [Personal Dashboard](https://github.com/ynshung/mini-personal-dashboard) - A mini dashboard with ESP32 and LCD round display for Spotify, Claude usage and more
 * [CukaiMate](https://cukaimate.com) - A mobile application that helps with tracking and management of income tax in Malaysia
 * [University Projects](https://github.com/ynshung/usm-cs) - A list of repositories containing various USM coursework projects such as 3D Graphics, Docker and IoT
 * [Better YouTube Shorts](https://github.com/ynshung/better-yt-shorts) - A browser extension to control playback on YouTube Shorts (unmaintained)
-* [USM Current Week](https://github.com/ynshung/usm-current-week) - A website showing the current week in Universiti Sains Malaysia
 
 ### ☕ Fancy a cup of coffee?
 If you love what I do, you can support me on [Ko-fi](https://ko-fi.com/ynshung) or [GitHub Sponsors](https://github.com/sponsors/ynshung) (next to the follow button)!
